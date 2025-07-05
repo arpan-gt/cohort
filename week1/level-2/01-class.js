@@ -22,3 +22,5 @@ const car1 = new car("BMW", "supercar");
 console.log("car class : ", car1.describe());
 const A1 = new Animal("cow", 4);
 console.log("Animal Class :", A1.describe());
+const A2 = new Animal("dog", "4");
+console.log(A2.describe())
