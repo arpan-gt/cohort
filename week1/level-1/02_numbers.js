@@ -19,3 +19,7 @@ function explainParseFloat(value) {
 explainParseFloat("3.14");
 explainParseFloat("42");
 explainParseFloat("42px");
+explainParseFloat("jibhjbndc45");
+explainParseFloat("4jibh54jbndc45");
+explainParseInt("4.5kdlcns");
+explainParseInt("sdjcvdfvd5.0");
